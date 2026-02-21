@@ -1,0 +1,2 @@
+# Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau
+This Tableau project analyzes housing market trends for ABC Company, examining sale prices, renovation impact, house age, and features like bedrooms, bathrooms, and floors. Interactive dashboards reveal pricing patterns and buyer preferences, enabling data-driven decisions, optimized pricing strategies, and improved market competitiveness.
